@@ -1,0 +1,24 @@
+{
+  "name": "fourinarow",
+  "version": "1.0.0",
+  "description": "Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "zemi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": "14.*",
+    "npm": "*"
+  },
+  "devDependencies": {}
+}
